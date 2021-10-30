@@ -14,7 +14,6 @@ https://wizeeee.github.io/Calendar-Application/
 - HTML
 - CSS
 - JavaScript
-- JQuery
 
 **Screenshot**
 
