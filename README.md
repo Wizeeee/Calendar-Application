@@ -2,16 +2,11 @@
 
 ## Description
 
-
 A simple calendar application that allows a user to save events during work hours and keep track of their daily work.
-
-
-
 
 ## Website
 
 https://wizeeee.github.io/Calendar-Application/
-
 
 ## Built With
 
@@ -23,7 +18,7 @@ https://wizeeee.github.io/Calendar-Application/
 
 **Screenshot**
 
-[](./Develop/images/Calendar-Application_SC.png)
+![](./Develop/images/Calendar-Application_SC.png)
 
 ## Contribution
 
