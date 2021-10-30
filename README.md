@@ -14,14 +14,11 @@ https://wizeeee.github.io/Calendar-Application/
 - HTML
 - CSS
 - JavaScript
-<<<<<<< HEAD
-=======
 - JQuery
->>>>>>> htmlel
 
 **Screenshot**
 
-[](./Develop/images/Calendar-Application_SC.png)
+![](./Develop/images/Calendar-Application_SC.png)
 
 ## Contribution
 
