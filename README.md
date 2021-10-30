@@ -7,6 +7,7 @@ A simple calendar application that allows a user to save events during work hour
 
 
 
+
 ## Website
 
 https://wizeeee.github.io/Calendar-Application/
@@ -27,4 +28,3 @@ https://wizeeee.github.io/Calendar-Application/
 ## Contribution
 
 Made by Mike.O
-
