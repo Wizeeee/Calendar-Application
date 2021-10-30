@@ -27,7 +27,7 @@ const timeAudit = () => {
 };
 // call the function here
 // timeAudit();
-setInterval(timeAudit, 9000);
+setInterval(timeAudit, 8000);
 //  Local storage recall
 $("#time-8 .task").val(localStorage.getItem("time-8"));
 $("#time-9 .task").val(localStorage.getItem("time-9"));
